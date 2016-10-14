@@ -1,28 +1,28 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+TWITTER BOT using TWEEPY API
+a Web Interface for the twitter bot. You have to first register your twitter bot to get started.  I have created a dummy twitter account.
+The twitterbot has 4 functionalities  just to get started -
+1. Recent 10 tweets by user 
+2. Recent 10 tweets to user
+3. Posting a tweet
+4.Recent 10 tweets based on hashtag
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Steps to run the application
+Create a twitter account 
+
+
+Steps for Using the Application
+1. Sign Up if you don't have an acount
+1. click on sign in 
+2. enter credentials 
+        i) email - XXXXXX
+        ii) password- XXXXXXX
+3. enter keys(You will get your set of keys after creating a twitter acount )
+        i) Consumer Key (API Key) - XXXXXXXXXXXXXXXXXXXXXXXXXX
+        ii) Consumer Secret (API Secret)- XXXXXXXXXXXXXXXXXXXXX
+        iii) Access Token- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+        iv) Access Token Secret- XXXXXXXXXXXXXXXXXXXXXXXXXX
+
+4. after entering the keys you can test the functionality by testing against a user handle. The user handle 
+should be entered without "@" sign. For example, if a user handle is "@asubot10" you simply have to enter "asubot10" without the "@" sign. Also hashtag should be entered without "#" sign.
+5. Enjoy

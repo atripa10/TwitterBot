@@ -7,6 +7,11 @@ The twitterbot has 4 functionalities  just to get started -
 4.Recent 10 tweets based on hashtag
 
 
+Here is the link to the Web App and steps to test it -
+
+https://boiling-harbor-48957.herokuapp.com/
+
+
 Steps to run the application
 Create a twitter account 
 
